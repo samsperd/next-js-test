@@ -1,4 +1,3 @@
-import Head from 'next/head'
 import ArticleList from '../components/ArticleList'
 import { server } from '../config'
 // import Image from 'next/image'
